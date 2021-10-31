@@ -1,0 +1,14 @@
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.exe
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.deps.json
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.runtimeconfig.json
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.runtimeconfig.dev.json
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.dll
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\basicWebScraper.pdb
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.csproj.AssemblyReference.cache
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.AssemblyInfoInputs.cache
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.AssemblyInfo.cs
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.csproj.CoreCompileInputs.cache
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.dll
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.pdb
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.genruntimeconfig.cache
