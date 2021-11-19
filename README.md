@@ -12,9 +12,9 @@ Coming soon...
 Langagues:
 * C#
 
-Frameworks and nugets:
+Frameworks and nuGets:
 * .NET Core 3.1
-* HTMLWebScraper nuget (idk for now)
+* NuGet: HtmlAgilityPack
 
 ## Download
 You can download the master branch with code. If the project will grow to the range of standalone program I will share a download link for .zip!

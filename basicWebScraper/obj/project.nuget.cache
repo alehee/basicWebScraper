@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gFIAZQY6O6fB/GdnooVISSUpfF4y2HS1WJsl9flouT8ufUPYZeXmB7mZBzZlajlATcC0l9czQz3kCczTTAkWPA==",
+  "dgSpecHash": "i6bPVvHbiwOCK+p2wKwh4wZUu0r163OdlvmYHDGayGZrxLA6jwy0AjnGf6EF9zpOSELU8g8DyrwPOfYYodaHcA==",
   "success": true,
   "projectFilePath": "D:\\Proj_Programming\\CS\\basicWebScraper\\basicWebScraper\\basicWebScraper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
   "logs": []
 }

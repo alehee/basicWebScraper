@@ -12,3 +12,4 @@ D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\b
 D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.dll
 D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.pdb
 D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\obj\Debug\netcoreapp3.1\basicWebScraper.genruntimeconfig.cache
+D:\Proj_Programming\CS\basicWebScraper\basicWebScraper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
