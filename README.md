@@ -1,5 +1,5 @@
 # basicWebScraper
-![It's a front pic!](https://github.com/alehee/basicWebScraper/tree/main/basicWebScraper/git_res/bg.png?raw=true)
+![It's a front pic!](https://github.com/alehee/basicWebScraper/blob/main/basicWebScraper/git_res/bg.jpg?raw=true)
 
 ## Description
 It's time for some scraping. The program provides a basic template for HtmlAgilityPack to get data from websites and gather it in variables and outputing on the screen. This time I'm scraping the '[lowcygier](https://lowcygier.pl)' website which provides the hostest game sales. All writen in C# .NET Core!
