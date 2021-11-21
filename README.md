@@ -1,12 +1,8 @@
 # basicWebScraper
-
-
+![It's a front pic!](https://github.com/alehee/basicWebScraper/blob/main/git_res/bg.png?raw=true)
 
 ## Description
-It's time for some scraping. The program will provide a basic responsive utilities to get data from websites and gather it in variables or files. All writen in C# .NET Core!
-
-## How it works?
-Coming soon...
+It's time for some scraping. The program provides a basic template for HtmlAgilityPack to get data from websites and gather it in variables and outputing on the screen. This time I'm scraping the '[lowcygier](https://lowcygier.pl)' website which provides the hostest game sales. All writen in C# .NET Core!
 
 ## Used technology
 Langagues:
@@ -17,13 +13,7 @@ Frameworks and nuGets:
 * NuGet: HtmlAgilityPack
 
 ## Download
-You can download the master branch with code. If the project will grow to the range of standalone program I will share a download link for .zip!
-
-## Changelog
-What's new with the project? Here's the list:
-
-* **0.1.0** --- *in progress*
-    * placing fundamentals...
+You can download the master branch with code.
 
 ## Thank you!
 Thank you for peeking at my project!
